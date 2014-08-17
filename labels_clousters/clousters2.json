@@ -1,0 +1,72 @@
+{
+	"102":{
+		"label-sl": "veselje",
+		"label-en": "joy",
+		"cluster": 2
+	},
+	"104":{
+		"label-sl": "sreča",
+		"label-en": "happiness",
+		"cluster": 2
+	},
+	"106":{
+		"label-sl": "žalost",
+		"label-en": "sadness",
+		"cluster": 3
+	},
+	"108":{
+		"label-sl": "otožnost",
+		"label-en": "gloominess",
+		"cluster": 3
+	},
+	"110":{
+		"label-sl": "hrepenenje",
+		"label-en": "longing",
+		"cluster": 1
+	},
+	"112":{
+		"label-sl": "živahnost",
+		"label-en": "liveliness",
+		"cluster": 1
+	},
+	"114":{
+		"label-sl": "presenečenje",
+		"label-en": "surprise",
+		"cluster": 1
+	},
+	"116":{
+		"label-sl": "pričakovanje",
+		"label-en": "anticipation",
+		"cluster": 2
+	},
+	"118":{
+		"label-sl": "jeza",
+		"label-en": "anger",
+		"cluster": 5
+	},
+	"120":{
+		"label-sl": "strah",
+		"label-en": "fear",
+		"cluster": 5
+	},
+	"122":{
+		"label-sl": "sproščenost",
+		"label-en": "relaxed",
+		"cluster": 1
+	},
+	"124":{
+		"label-sl": "mirnost",
+		"label-en": "calmness",
+		"cluster": 3
+	},
+	"126":{
+		"label-sl": "zasanjanost",
+		"label-en": "dreamy",
+		"cluster": 3
+	},
+	"128":{
+		"label-sl": "navdihnjenost",
+		"label-en": "inspiring",
+		"cluster": 1
+	}
+}
